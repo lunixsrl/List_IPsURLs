@@ -1,2 +1,9 @@
 .youtube.com
-006a039c957c142bb.com
+.facebook.com
+static.xx.fbcdn.net
+.twitter.com
+.twimg.com
+.instagram.com
+.vimeo.com
+.twitch.tv
+.vimeocdn.com
