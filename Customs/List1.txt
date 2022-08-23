@@ -1,4 +1,5 @@
 .youtube.com
+www.youtube.com
 .facebook.com
 static.xx.fbcdn.net
 .twitter.com
