@@ -1,9 +1,9 @@
-0.0.0.0 youtube.com
-0.0.0.0 facebook.com
-0.0.0.0 static.xx.fbcdn.net
-0.0.0.0 twitter.com
-0.0.0.0 twimg.com
-0.0.0.0 instagram.com
-0.0.0.0 vimeo.com
-0.0.0.0 twitch.tv
-0.0.0.0 vimeocdn.com
+youtube.com
+facebook.com
+static.xx.fbcdn.net
+twitter.com
+twimg.com
+instagram.com
+vimeo.com
+twitch.tv
+vimeocdn.com
