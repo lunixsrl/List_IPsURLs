@@ -7,3 +7,5 @@ instagram.com
 vimeo.com
 twitch.tv
 vimeocdn.com
+radios.com
+cienradios.com
